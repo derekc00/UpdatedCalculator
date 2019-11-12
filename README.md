@@ -8,5 +8,5 @@ Upcoming Features
 -User is able to add attributes to each person (name, what they ordered, how much their order costs)
 
 
-![alt WireFrame](https://imgur.com/a/Pi8iJ36)
+![WireFrame](https://i.imgur.com/LK7bshx.png)
 
